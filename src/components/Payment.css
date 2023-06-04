@@ -1,0 +1,15 @@
+.payment {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    justify-items: center;
+    font-weight: 300;
+    font-size: 50px;
+    margin-top: 350px;
+    
+}
+.payment p {
+    margin-bottom: 80px;
+}
+

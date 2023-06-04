@@ -1,0 +1,43 @@
+.home{
+    position: relative;
+    z-index: 1;
+}
+
+.home_container {
+    display: flex;
+    margin-left: 5px;
+    margin-right: 5px;
+    
+
+
+}
+
+
+.border{
+    background-color: white;
+    max-width: 100%;
+    display: flex;
+    padding-top: 6px;
+    padding-bottom: 7px;
+    margin-left: 15px;
+    margin-right: 15px;
+    margin-bottom: 13px;
+    font-size: medium;
+    font-weight: 100;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+
+}
+.anchor{
+    text-decoration: none;
+    margin-left: 7px;
+}
+.anchor:hover{
+    color: red;
+}
+
+.header_basketCount {
+    color: orange ;
+    font-size: 15px;
+}

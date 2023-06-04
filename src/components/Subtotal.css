@@ -1,0 +1,27 @@
+.subtotal{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    width: 450px;
+    height: 150px;
+    padding:20px;
+    background-color: white;
+    border: 1px solid #dddddd;
+    border-radius: 3px;
+    margin-left: 40px;
+}
+
+.buttoncheckout > button {
+    background: #FFDE2B;
+    border-radius: 2px;
+    width: 100%;
+    height: 30px;
+    border: none;
+    margin-top: 10px;
+    border-radius: 8px;
+    color: #111;
+}
+.buttoncheckout > button:hover {
+    cursor: pointer;
+    box-shadow: inset 0 0 26px #FFBF00;
+}

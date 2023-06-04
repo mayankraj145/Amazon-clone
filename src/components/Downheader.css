@@ -1,0 +1,42 @@
+
+.div {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding: 8px;
+    padding-left: 17px;
+    padding-top: 3px;
+    background-color: #232F3E;
+    object-fit: contain;
+    position: relative;
+    top: 0;
+    max-width: 100%;
+    max-height: 100%;
+    color: white;
+    font-size: 13px;
+}
+
+.link{
+    color: white;
+    text-decoration: none;
+    font-weight: 450;
+    display: flex;
+    margin-right: 20px;
+}
+.link:hover{
+    border-bottom: 1px solid whitesmoke;
+}
+.tag {
+    margin-right: 20px;
+    display: flex;
+    
+}
+.menu:hover{
+    cursor: pointer;
+}
+.div p {
+    margin-right: 33px;
+}
+.menu {
+    margin-right: 3px;
+}
